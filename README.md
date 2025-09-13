@@ -26,7 +26,7 @@ The project involves:
 
 ## 🗂️ Dataset
 
-The dataset used is the **SpamAssassin Public Corpus** / [UCI SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) (or whichever dataset you used — change accordingly).
+The dataset used is the **mail_data.csv** 
 
 - Contains labeled email/sms messages
 - Two classes: `spam` and `ham` (not spam)
